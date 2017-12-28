@@ -1,0 +1,2 @@
+# Puppet
+Installing puppet master
